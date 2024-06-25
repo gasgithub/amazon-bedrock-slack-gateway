@@ -1,5 +1,5 @@
 # Slack Gateway for Amazon Bedrock
-
+test
 In this repo we share a project which lets you use Amazon Bedrock's generative AI to enable Slack channel members to access your organizations data and knowledge sources via conversational question-answering. You can connect to your organization data via data source connectors and integrate it with Slack Gateway for Amazon Bedrock to enable access to your Slack channel members. It allows your users to:
 
 - Converse with Amazon Bedrock using Slack Direct Message (DM) to ask questions and get answers based on company data, get help creating new content such as emails, and performing tasks. 
